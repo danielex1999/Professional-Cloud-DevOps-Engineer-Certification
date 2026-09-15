@@ -6,7 +6,9 @@
 
 
 
-<div align="center">
+---
+
+<div align="center" style="margin-top: 40px">
 
 <img src="src/img/pe56d.s3.amazonaws.png" alt="Professional Cloud DevOps Engineer" width="150"/>
 
