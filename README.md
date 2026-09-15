@@ -8,6 +8,6 @@
 
 <div align="center">
 
-<img src="src/img/pe56d.s3.amazonaws.png" alt="Professional Cloud DevOps Engineer" width="250"/>
+<img src="src/img/pe56d.s3.amazonaws.png" alt="Professional Cloud DevOps Engineer" width="150"/>
 
 </div>
