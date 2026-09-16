@@ -12,11 +12,11 @@
 - [Identity and Access Management (IAM)](iam.md)
 - [Cuentas de servicio](service-accounts.md)
 - [Cloud Identity](cloud-identity.md)
-- Interacción con Google Cloud
-- Redes de nube privada virtual
-- Compute Engine
-- Escalamiento de máquinas virtuales
-- Compatibilidades importantes de VPC
+- [Interacción con Google Cloud](cloud-interaction.md)
+- [Redes de nube privada virtual](vpc-networks.md)
+- [Compute Engine](compute-engine.md)
+- [Escalamiento de máquinas virtuales](vm-scaling.md)
+- [Compatibilidades importantes de VPC](vpc-compatibilities.md)
 - Cloud Load Balancing
 - Cloud DNS y Cloud CDN
 - Conexión de redes a la VPC de Google
