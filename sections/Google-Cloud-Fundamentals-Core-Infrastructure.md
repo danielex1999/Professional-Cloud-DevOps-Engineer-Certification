@@ -1,7 +1,7 @@
 
 ## Aspectos básicos de Google Cloud: Infraestructura principal
 
-- Descripción general de la computación en la nube
+- [Descripción general de la computación en la nube](section02/cloudDescription.md)
 - IaaS y PaaS
 - La red de Google Cloud
 - Impacto ambiental
