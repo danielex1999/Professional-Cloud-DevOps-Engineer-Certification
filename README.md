@@ -1,7 +1,7 @@
 # Certificación de Professional Cloud DevOps Engineer
 
 1. Recorrido por los labs prácticos de Google Cloud
-2. [Aspectos básicos de Google Cloud: Infraestructura principal](sections/Google-Cloud-Fundamentals-Core-Infrastructure.md)
+2. [Aspectos básicos de Google Cloud: Infraestructura principal](sections/section02/Google-Cloud-Fundamentals-Core-Infrastructure.md)
 
 
 
