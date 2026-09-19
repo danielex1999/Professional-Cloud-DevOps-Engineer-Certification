@@ -40,5 +40,6 @@
 - Aplicaciones en la nube
     - [Cloud Run](cloud-run.md)
     - [Desarrollo en la nube](cloud-development.md)
-    - Ingeniería de instrucciones
+- Ingeniería de instrucciones
+    - [Ingeniería de instrucciones](instruction-engineering.md)
 
