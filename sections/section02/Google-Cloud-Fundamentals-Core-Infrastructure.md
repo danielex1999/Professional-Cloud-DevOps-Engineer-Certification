@@ -38,8 +38,7 @@
     - [Kubernetes](kubernetes.md)
     - [Google Kubernetes Engine](gke.md)
 - Aplicaciones en la nube
-    - Cloud Run
-    - Desarrollo en la nube
-    - Hola, Cloud Run
+    - [Cloud Run](cloud-run.md)
+    - [Desarrollo en la nube](cloud-development.md)
     - Ingeniería de instrucciones
 
