@@ -15,5 +15,7 @@
     - [Trabajo repetitivo](repetitive-work.md)
     - [Psicología del cambio](psychology-of-change.md)
 - Regula la carga de trabajo
+    - [Trabajo repetitivo y confiabilidad](repetitive-work-and-reliability.md)
+    - [Definición de objetivos](defining-objectives.md)
 - Aplica la SRE en tu organización
 - Evaluación final
