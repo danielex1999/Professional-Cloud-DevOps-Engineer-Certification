@@ -18,4 +18,6 @@
     - [Trabajo repetitivo y confiabilidad](repetitive-work-and-reliability.md)
     - [Definición de objetivos](defining-objectives.md)
 - Aplica la SRE en tu organización
-- Evaluación final
+    - [Madurez organizacional](organizational-maturity.md)
+    - [Habilidades y capacitación](skills-and-training.md)
+    - [Equipos de SRE](sre-teams.md)
