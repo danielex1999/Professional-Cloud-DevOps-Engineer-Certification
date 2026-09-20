@@ -282,5 +282,3 @@ Las organizaciones que desarrollan una cultura de SRE deben enfocarse en:
 1. **Crear una visión unificada.**
 2. **Determinar qué aspecto tiene la colaboración.**
 3. **Compartir conocimientos entre los equipos.**
-
-En el próximo módulo, el viaje de SRE continúa para hacer que el mañana sea mejor que el hoy, en el que se aprenderá sobre las prácticas de SRE que se alinean con aplicar cambios graduales para aprovechar las herramientas y la automatización.
