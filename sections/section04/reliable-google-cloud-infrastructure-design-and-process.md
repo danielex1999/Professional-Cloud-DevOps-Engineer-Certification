@@ -6,11 +6,11 @@
     - [SLOs and SLAs](slos-and-slas.md)
 - Microservice Design and Architecture
     - [Microservicios](microservices.md)
+    - [Prácticas recomendadas de microservicios](microservices-best-practices.md)
     - [REST](rest.md)
-    - [No culpabilización y seguridad psicológica](no-blame-and-psychological-safety.md)
-    - [SLO y porcentajes de error aceptables](slo-and-acceptable-error-percentages.md)
-    - [Compartir la visión y el conocimiento](sharing-vision-and-knowledge.md)
-- Mejora el mañana
+    - [HTTP](http.md)
+    - [API](api.md)
+- Automatización de DevOps
     - [Integración continua, entrega continua y versiones canary](continuous-integration-continuous-delivery-and-canary-releases.md)
     - [Design thinking y prototipado](design-thinking-and-prototyping.md)
     - [Trabajo repetitivo](repetitive-work.md)
