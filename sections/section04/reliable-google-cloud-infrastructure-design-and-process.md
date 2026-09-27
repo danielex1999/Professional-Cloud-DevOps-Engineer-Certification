@@ -11,11 +11,9 @@
     - [HTTP](http.md)
     - [API](api.md)
 - Automatización de DevOps
-    - [Integración continua, entrega continua y versiones canary](continuous-integration-continuous-delivery-and-canary-releases.md)
-    - [Design thinking y prototipado](design-thinking-and-prototyping.md)
-    - [Trabajo repetitivo](repetitive-work.md)
-    - [Psicología del cambio](psychology-of-change.md)
-- Regula la carga de trabajo
+    - [Canalizaciones de integración continua](continuous-integration-pipelines.md)
+    - [Infraestructura como código](infrastructure-as-code.md)
+- Elige soluciones de almacenamiento
     - [Trabajo repetitivo y confiabilidad](repetitive-work-and-reliability.md)
     - [Definición de objetivos](defining-objectives.md)
 - Aplica la SRE en tu organización
