@@ -14,9 +14,9 @@
     - [Canalizaciones de integración continua](continuous-integration-pipelines.md)
     - [Infraestructura como código](infrastructure-as-code.md)
 - Elige soluciones de almacenamiento
-    - [Trabajo repetitivo y confiabilidad](repetitive-work-and-reliability.md)
-    - [Definición de objetivos](defining-objectives.md)
-- Aplica la SRE en tu organización
+    - [Características clave de almacenamiento](storage-features.md)
+    - [Elige soluciones de almacenamiento y datos de Google Cloud](storage-and-data-solutions.md)
+- Google Cloud y la arquitectura de redes híbridas
     - [Madurez organizacional](organizational-maturity.md)
     - [Habilidades y capacitación](skills-and-training.md)
     - [Equipos de SRE](sre-teams.md)
